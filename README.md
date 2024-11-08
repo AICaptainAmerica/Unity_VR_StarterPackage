@@ -1,2 +1,2 @@
-# Unity_VR_StarterPackage
+# VR Starter Pack for User Studies
  
